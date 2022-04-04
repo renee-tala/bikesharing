@@ -30,4 +30,6 @@ Seven Analyses were made from the data provided. You can [view the full story in
   ![Analysis 7](img7.png)
 
 ## Summary: 
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+- These results tell us that other cities will have high traffic areas, potentially similar gender and time usage, and bikes will need repairs. I would also look at number of rides per subscriber per day, as well as how frequently customers use the service. How can we make them subscribers? Why are men three times more likely to subscribe and use Citi Bike? 
+- Examining the type of repairs (if the data is available) would also be helpful to gauge what can be done to prevent breakage.
