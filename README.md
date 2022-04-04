@@ -13,21 +13,16 @@ The purpose of the analysis is to visualize trends of New York City's Citi Bike 
   - NYC Citi Bike Trip Data from August 2019
   - Tableau, Python, Jupyter Notebook, Pandas Library
 ## Results
-asjdsldkfjs
-  - Analysis 1 - 
-  - Analysis 2 -
-  - Analysis 3 -
-  - Analysis 4 -
-  - Analysis 5 -
-  - Analysis 6 -
-  - Analysis 7 -
-Checkout Time for Users
-Checkout Time by Gender
-Trips by Weekday 
-Trips by Gender (Weekday per Hour)
-User Trips by Gender by Weekday 
-Top Starting Location
-Top Ending Location
+Seven Analyses were made from the data provided. 
+  - Analysis 1 - **Top Starting Location** **Top Ending Location**
+  - Analysis 2 - ![Image](images/img1.png) **Gender Breakdown**
+  - Analysis 3 - ![Image](images/img1.png) Looking at **Checkout Time for Users** and **Checkout Times by Gender**, we can tell that 
+  - Analysis 4 - **Trips by Weekday**
+  - Analysis 5 - **Trips by Gender (Weekday per Hour)**
+  - Analysis 6 - **User Trips by Gender by Weekday**
+  - Analysis 7 - **Bike Repairs** **Bike Utilization**
+
+
 
 
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
